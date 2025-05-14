@@ -20,5 +20,5 @@ class TikTokViewsBot:
 
 # Example Usage
 if __name__ == "__main__":
-    bot = TikTokViewsBot("https://www.tiktok.com/@example/video/123456789", 10)
+    bot = TikTokViewsBot("https://www.tiktok.com/@aceqdel/photo/7504159250499783966?lang=en", 1000000000)
     bot.send_views()
